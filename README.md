@@ -57,8 +57,9 @@ This script demonstrates how to not only detect hands but also classify them as 
 
 ## 📸 Demo Screenshots
 
-![Brightness Control Demo]
-
+| Brightness Control                                     | Color Detection                                       | Hand Detection                                      |
+| ------------------------------------------------------ | ----------------------------------------------------- | --------------------------------------------------- |
+| ![Brightness Control Demo](link_to_your_image_or_gif.png) | ![Color Detection Demo](link_to_your_image_or_gif.png) | ![Hand Detection Demo](link_to_your_image_or_gif.png) |
 
 
 
