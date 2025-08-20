@@ -41,7 +41,7 @@ while True:
         color_val = (0, 0, 255)
 
     # put the color text on the frame
-    cv2.putText(frame, f"Color: {color_text}", (30, 50), cv2.FONT_HERSHEY_SIMPLEX, 
+    cv2.putText(frame, f"Color: {color_text}", (30, 50), cv2.FONT_HERSHEY_SIMPLEX,
                 1, color_val, 2, cv2.LINE_AA)
 
     # displaying the current frame
