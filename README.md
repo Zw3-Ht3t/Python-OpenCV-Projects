@@ -57,7 +57,7 @@ This script demonstrates how to not only detect hands but also classify them as 
 
 ## 📸 Demo Screenshots
 
-
+![Brightness Control Demo]
 
 
 
