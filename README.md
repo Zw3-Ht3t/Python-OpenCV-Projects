@@ -9,7 +9,6 @@ This repository contains a collection of computer vision projects developed usin
   * [Brightness Control with Hand Detection](#1-brightness-control-with-hand-detection)
   * [RGB Color Detection](#2-rgb-color-detection)
   * [Right and Left Hand Detection](#3-right-and-left-hand-detection)
-* [📸 Demo Screenshots](#-demo-screenshots)
 * [🛠️ Technologies Used](#️-technologies-used)
 * [Usage](#-usage)
 
@@ -52,16 +51,6 @@ This script demonstrates how to not only detect hands but also classify them as 
 * **How it works:** Leveraging the MediaPipe Hands solution, this project processes the video feed to find hands. The MediaPipe library provides 'chirality' (handedness) information for each detected hand, which is then overlaid on the video stream.
 * **Libraries Used:** `opencv-python`, `mediapipe`.
 * **File:** `Right_and_Left_Hand_Detection.py` (or your filename)
-
----
-
-## 📸 Demo Screenshots
-
-| Brightness Control                                     | Color Detection                                       | Hand Detection                                      |
-| ------------------------------------------------------ | ----------------------------------------------------- | --------------------------------------------------- |
-| ![Brightness Control Demo](link_to_your_image_or_gif.png) | ![Color Detection Demo](link_to_your_image_or_gif.png) | ![Hand Detection Demo](link_to_your_image_or_gif.png) |
-
-
 
 ---
 
